@@ -1,0 +1,6 @@
+{
+  "name": "XYZ GYM - Performance Compound & Member Portal",
+  "description": "High-voltage athletic gym website, membership checkout, digital RFID gate access pass, and member telemetry dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
